@@ -9,7 +9,6 @@ function Verify (each) {
         dom.textContent= "Transcation Verification"
         dom.style.color= "white";
         dom.style.backgroundColor="red"
-        return dom
     }else if (dom1 == String & each =="successful"){
         dom.textContent= "Transcation Verification"
         dom.style.color= "white";
